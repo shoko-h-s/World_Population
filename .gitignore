@@ -1,0 +1,12 @@
+# PyCharm の設定ファイル
+.idea/
+
+# OS 固有のファイル
+.DS_Store    # macOS
+Thumbs.db    # Windows
+*~           # Linux や Vim、Emacs などのエディタが作成するバックアップファイル
+
+# Python 固有のファイル
+__pycache__/    # Python のキャッシュ
+.venv/          # 仮想環境のディレクトリ
+*.pyc    　　　  # Pythonのバイトコードファイル
